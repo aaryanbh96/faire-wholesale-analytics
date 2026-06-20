@@ -51,4 +51,4 @@ The notebook is self-contained — the first cell generates the synthetic datase
 
 ---
 
-Built by **Aryan Bhardwaj** — operator who builds. [rearyan.com](https://rearyan.com) · [github.com/aaryanbh96](https://github.com/aaryanbh96)
+Built by **Aryan Bhardwaj** [rearyan.com](https://rearyan.com) · [github.com/aaryanbh96](https://github.com/aaryanbh96)
